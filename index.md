@@ -28,7 +28,7 @@ I'm a technologist, designer, and musician from Sydney. I'm interested in emergi
 
 Email me at <a href="mailto:hello@rupert.cloud">hello@rupert.cloud</a>, tweet me <a href="https://twitter.com/rupert_parry">@rupert_parry</a>.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfYWTBINml9-NOjUJ2fzrGvGZgMTuTnkQnwcn4tKgbulEsbwA/viewform?usp=sf_link" target="_blank">Subscribe to my newsletter</a> and you'll receive my short, occasional thoughts on questions like how we should be building technology that emulates the natural world (not cold glass screens).
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfYWTBINml9-NOjUJ2fzrGvGZgMTuTnkQnwcn4tKgbulEsbwA/viewform?usp=sf_link" target="_blank">Subscribe to my newsletter</a> and you'll receive my short, occasional thoughts on things like how we should be building technology that emulates the natural world (not cold glass screens).
 
 </section>
 </div>
