@@ -57,7 +57,7 @@ Email me at <a href="mailto:hello@rupert.cloud">hello@rupert.cloud</a>, tweet me
 </li>
 </ul>
 
-I've also built handsome websites, a charity fintech startup, AI-powered chatbots & virtual assistants, a tattoo that turns into an augmented-reality dinosaaur, electronic art installations, and a tiny website that tells you where to get a [damn cheap oyster](http://oyster.cheap).
+I've also built handsome websites, a charity fintech startup, AI-powered chatbots & virtual assistants, a tattoo that turns into an augmented-reality dinosaur, electronic art installations, and a tiny website that tells you where to get a [damn cheap oyster](http://oyster.cheap).
 
 </section>
 </div>
