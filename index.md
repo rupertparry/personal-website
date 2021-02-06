@@ -19,7 +19,7 @@ I'm a technologist, designer, and musician from Sydney. I'm interested in emergi
 - Leading an investigation on the future of AI in the music industry
 - Helping out with an Indigenous AI incubator hosted by Old Ways New
 
-**I'm also working freelance!** You can hire me to prototype that cool new thing you want to make, or build that website. Maybe we can explore a big thorny question about technology, where it's headed & what you're going to do about it.
+**I'm also working freelance!** You can hire me to prototype that cool new thing you want to make, or build that website. Maybe we can explore a big thorny question about technology, where it's headed, and what you're going to do about it <i>(workshops, ideation, prototypes & speculative design)</i>.
 
 </section>
 <section>
