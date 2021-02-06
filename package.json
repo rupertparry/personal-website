@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-template",
+  "version": "1.0.0",
+  "description": "A template for eleventy sites.",
+  "main": "index.js",
+  "author": "Rupert Parry <rp@rupert.cloud>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "eleventy --watch --serve --port=1234",
+    "start": "yarn dev",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="/assets/base.css" />
+	{% if stylesheet %}
+		<link rel="stylesheet" href="/assets/{{stylesheet}}.css" />
+	{% endif %}
+	<title>{{ title }}</title>
+</head>
+<body>
+	<nav>
+		<ul>
+			{%- for page in global.nav_links -%}
+				<a href="/pages/{{ page }}">{{ page }}</a>
+			{%- endfor -%}
+		</ul>
+	</nav>
+	{{ content }}
+</body>
+</html>

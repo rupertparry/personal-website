@@ -1,0 +1,5 @@
+{
+	"nav_links": [
+		{ "title": "My Page", "path": "/pages/my-page" }
+	]
+}
