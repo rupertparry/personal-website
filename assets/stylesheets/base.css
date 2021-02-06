@@ -1,0 +1,173 @@
+/* @font-face {
+	font-family: 'Caecilia';
+	src: url('/assets/fonts/caecilia.ttf');
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@1,600&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+:root {
+	--color: #201120;
+}
+
+html, body {
+	/* font-family: 'Caecilia', sans-serif; */
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+	background: #F0E9E8;
+	color: var(--color);
+}
+
+h1 {
+	font-family: 'Crimson Pro', serif;
+	font-size: 53px;
+	margin-top: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-style: italic;
+}
+
+h2 {
+	padding-top: 0;
+	font-style: italic;
+	margin-top: 0;
+	font-family: 'Crimson Pro', serif;
+	width: fit-content;
+}
+
+h2::after {
+	display: block;
+	content: ' ';
+	margin-top: -14px;
+	height: 14px;
+	width: 100%;
+	background: #C6FFEA;
+}
+
+span.formerly {
+	/* display: block; */
+	font-size: 15px;
+	font-style: italic;
+	color: #666;
+}
+
+nav {
+	float: right;
+}
+/* 
+.page {
+	max-width: 700px;
+	margin: 0 auto;
+} */
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto;
+	min-height: 100%;
+	/* height: 100%;
+	display: flex;
+	width: fit-content; */
+}
+
+.column {
+	border-right: 2px solid #ddd;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* overflow: auto;
+	padding: 0 60px;
+	padding-top: 200px;
+	min-width: 600px;
+	height: 100%;
+	border-right: 2px solid #ddd;
+	box-sizing: border-box; */
+	/* display: flex; */
+	/* flex-direction: column; */
+	/* justify-content: center; */
+}
+
+section {
+	padding-top: 20px;
+	padding: 20px;
+}
+
+section + section {
+	border-top: 2px solid #ddd;
+}
+
+
+.column + .column {
+	border-right: 0;
+}
+
+a {
+	color: var(--color);
+	font-style: italic;
+}
+
+a:hover {
+	background: #C6FFEA;
+}
+
+li {
+	font-size: 18px;
+	line-height: 1.4rem;
+}
+
+.projects-list {
+	list-style: none;
+	padding: 0;
+}
+
+.projects-list li {
+	font-size: 17px;
+	max-width: 630px;
+	margin-bottom: 10px;
+	line-height: 1.4rem;
+	background: #f9f5f5;
+	padding: 1px 25px;
+	border-radius: 7px;
+	box-shadow: 5px 0 10px rgb(0 0 0 / 10%);
+}
+
+/* a::after {
+	display: block;
+	content: ' ';
+	margin-top: -14px;
+	height: 14px;
+	width: 100%;
+	background: #FFFEC8;
+} */
+
+@media screen and (max-width: 1200px) {
+	html, body {
+		font-size: 17px;
+	}
+
+	h1 {
+		font-size: 40px;
+	}
+	li {
+		font-size: 15px !important;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.wrapper {
+		grid-template-columns: 1fr;
+	}
+
+	.column {
+		height: auto;
+	}
+
+	section {
+		border-top: 2px solid #ddd;
+	}
+}
