@@ -19,7 +19,7 @@ I'm a technologist, designer, and musician from Sydney. I'm interested in emergi
 - Leading an investigation on the future of AI in the music industry
 - Helping out with an Indigenous AI incubator hosted by Old Ways New
 
-**I'm also working freelance!** You can hire me to prototype that cool new thing you want to make, or build that website. Maybe we can explore a big thorny question about technology, where it's headed, and what you're going to do about it <i>(workshops, ideation, prototypes & speculative design)</i>.
+**I currently have available freelance slots.** You can hire me to prototype that cool new thing you want to make, or build that website. Maybe we can explore a big thorny question about technology, where it's headed, and what you're going to do about it <i>(workshops, ideation, prototypes & speculative design)</i>.
 
 </section>
 <section>
@@ -47,7 +47,7 @@ Email me at <a href="mailto:hello@rupert.cloud">hello@rupert.cloud</a>, tweet me
 </li>
 <li>
 
-**[Semi-Conductor](https://experiments.withgoogle.com/semi-conductor) is an experiment in interfaces.** What if you could change the feel and tempo of digital music without an interface at all, just by waving your arms like aconductor? It's been [featured in the MIM Museum in Chile](https://www.futuro360.com/videos/inteligencia-artificial-ninos-ninas-mim_20190813/) and experienced by over 200,000 people worldwide. Plus, it's [open source](https://github.com/googlecreativelab/semi-conductor).
+**[Semi-Conductor](https://experiments.withgoogle.com/semi-conductor) is an experiment in interfaces.** What if you could change the feel and tempo of digital music without an interface at all, just by waving your arms like a conductor? It's been [featured in the MIM Museum in Chile](https://www.futuro360.com/videos/inteligencia-artificial-ninos-ninas-mim_20190813/) and experienced by over 200,000 people worldwide. Plus, it's [open source](https://github.com/googlecreativelab/semi-conductor).
 
 </li>
 <li>
